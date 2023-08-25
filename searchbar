@@ -1,26 +1,22 @@
 [
     {
-      "id": 1,
-      "category": "Cat",
-      "desc": "pwpw", 
-      "url": "https://www.svt.se/"
+        "category": "Cat",
+        "desc": "pwpw", 
+        "url": ""
     },
     {
-      "id": 2,
-      "category": "Cat2",
-      "desc": "gg",
-      "url": "https://www.svt.se/"
+        "category": "Cat2",
+        "desc": "gg",
+        "url": ""
     },
     {
-      "id": 3,
-      "category": "Maxwell",
-      "desc": "aaa",
-      "url": "https://www.svt.se/"
+        "category": "Classics",
+        "desc": "aaa",
+        "url": ""
     },
     {
-      "id": 4,
-      "category": "Fat",
-      "desc": "we",
-      "url": "https://www.svt.se/"
+        "category": "Fat",
+        "desc": "we",
+        "url": ""
     }
-  ]
+]
