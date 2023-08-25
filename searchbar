@@ -1,26 +1,30 @@
 [
     {
         "id": 1,
-        "category": "Cat",
-        "desc": "pwpw", 
-        "url": ""
+        "category": "Catgirls",
+        "desc": "Who doesn't like hot anime catigirls", 
+        "url": "https://cdn.discordapp.com/attachments/1144592733604941934/1144592761316712648/CatMaids.jpg",
+        "back-image": ""
     },
     {
         "id": 2,
-        "category": "Cat2",
-        "desc": "gg",
-        "url": ""
+        "category": "Classics",
+        "desc": "Classics known far and wide for their high quality",
+        "url": "https://cdn.discordapp.com/attachments/1144592733604941934/1144593078569685002/Classic.jpg",
+        "back-image": ""
     },
     {
         "id": 3,
-        "category": "Classics",
-        "desc": "aaa",
-        "url": ""
+        "category": "Maids",
+        "desc": "They will keep your house clean and comfort you in the most lustful way imaginable",
+        "url": "https://cdn.discordapp.com/attachments/1144592733604941934/1144593427212808243/Maids.jpg",
+        "back-image": ""
     },
     {    
         "id": 4,
-        "category": "Fat",
-        "desc": "we",
-        "url": ""
+        "category": "School girls",
+        "desc": "Make sure to meet them up in the school bathroom during class ;)",
+        "url": "https://cdn.discordapp.com/attachments/1144592733604941934/1144593622864510996/SchoolGirl.jpg",
+        "back-image": ""
     }
 ]
