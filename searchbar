@@ -2,7 +2,7 @@
     {
         "id": "one",
         "category": "Catgirls",
-        "path": "Catgirls",
+        "path": "catgirls",
         "desc": "Who doesn't like hot anime catigirls", 
         "url": "https://cdn.discordapp.com/attachments/1144592733604941934/1144592761316712648/CatMaids.jpg",
         "urlHov": "https://cdn.discordapp.com/attachments/1144592733604941934/1144601987657244833/CatMaids.Hover.gif",
@@ -12,7 +12,7 @@
     {
         "id": "two",
         "category": "Classics",
-        "path": "Classics",
+        "path": "classics",
         "desc": "Classics known far and wide for their high quality",
         "url": "https://cdn.discordapp.com/attachments/1144592733604941934/1144593078569685002/Classic.jpg",
         "urlHov": "https://cdn.discordapp.com/attachments/1144592733604941934/1144601986608668763/Classic.Hover.gif",
@@ -22,7 +22,7 @@
     {
         "id": "three",
         "category": "Maids",
-        "path": "Maids",
+        "path": "maids",
         "desc": "They will keep your house clean and comfort you in the most lustful way imaginable",
         "url": "https://cdn.discordapp.com/attachments/1144592733604941934/1144593427212808243/Maids.jpg",
         "urlHov": "https://cdn.discordapp.com/attachments/1144592733604941934/1144601986906456264/Maids.Hover.gif",
@@ -31,7 +31,7 @@
     },
     {    
         "id": "four",
-        "category": "School girls",
+        "category": "school girls",
         "path": "School_girls",
         "desc": "Make sure to meet them up in the school bathroom during class ;)",
         "url": "https://cdn.discordapp.com/attachments/1144592733604941934/1144593622864510996/SchoolGirl.jpg",
