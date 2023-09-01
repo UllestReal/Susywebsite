@@ -1,0 +1,32 @@
+[
+    {
+        "path": "classics",
+        "SexyImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420853844746260/Img1Classics.png",
+        "CatImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420852578070600/Fat_Ass_Cat_In_A_Tuxedo.jpg",
+        "Audio": "https://cdn.discordapp.com/attachments/1147113982986047518/1147114499401318482/The_Godfather.mp3"
+    },
+    {
+        "path": "classics",
+        "SexyImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420977811599431/Img2Classics.jpg",
+        "CatImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146421052893822976/Kill_yourself_now.jpg",
+        "Audio": "https://cdn.discordapp.com/attachments/1147113982986047518/1147114481076408340/Kill_yourself_now.mp3"
+    },
+    {
+        "path": "classics",
+        "SexyImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420979409629247/Img3Classics.jpeg",
+        "CatImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420851974095008/DripCat.png",
+        "Audio": "https://cdn.discordapp.com/attachments/1147113982986047518/1147114499929817189/TheDrip.mp3"
+    },
+    {
+        "path": "classics",
+        "SexyImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146421053791416370/Img4Classics.jpg",
+        "CatImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146421093867982868/Walter_White.jpg",
+        "Audio": "https://cdn.discordapp.com/attachments/1147113982986047518/1147114498927374440/Waltuh_White.mp3"
+    },
+    {
+        "path": "classics",
+        "SexyImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146421055553011833/Img5Classics.png",
+        "CatImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146421056320569354/Jojocat.jpg",
+        "Audio": "https://cdn.discordapp.com/attachments/1147113982986047518/1147114480233353256/Giorno_theme.mp3"
+    }
+]
