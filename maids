@@ -4,5 +4,29 @@
         "SexyImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420854108991599/Img1Maids.jpg",
         "CatImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420728934178916/Barbarian.jpg",
         "Audio": "https://cdn.discordapp.com/attachments/1146420007291592837/1146701137869799464/Coc.mp3"
+    },
+    {
+        "path": "maids",
+        "SexyImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420978176491541/Img2Maids.png",
+        "CatImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420730108583996/CatWarrior.jpg",
+        "Audio": "https://cdn.discordapp.com/attachments/1147113982986047518/1147114481546174514/MysticalTree.mp3"
+    },
+    {
+        "path": "maids",
+        "SexyImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420979850018816/Img3Maids.jpg",
+        "CatImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146421094190940230/LeoCat.png",
+        "Audio": "https://cdn.discordapp.com/attachments/1147113982986047518/1147114452550963270/Battoai.mp3"
+    },
+    {
+        "path": "maids",
+        "SexyImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146421054294720584/Img4Maids.jpg",
+        "CatImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420729236164699/Beanos.jpg",
+        "Audio": "https://cdn.discordapp.com/attachments/1147113982986047518/1147114452899082312/Beanos.mp3"
+    },
+    {
+        "path": "maids",
+        "SexyImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146421055880179783/Img5Maids.jpg",
+        "CatImage": "https://cdn.discordapp.com/attachments/1146420007291592837/1146420853081382922/Frenchie.png",
+        "Audio": "https://cdn.discordapp.com/attachments/1147113982986047518/1147114479826509824/Frenchie.mp3"
     }
 ]
